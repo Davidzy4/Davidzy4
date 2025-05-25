@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [David]
+# Hi there 👋, I'm David
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
