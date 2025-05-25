@@ -1,5 +1,7 @@
 # Hi there 👋, I'm [David]
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+
 I'm a Software Developer who loves working with CSS, Javascript, Java.
 
 - 🔭 I’m currently working on: Websites
