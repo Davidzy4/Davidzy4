@@ -21,6 +21,6 @@ I'm a [Software Developer] who loves working with Java, Javascript, Springboot, 
 ---
 
 ## 📊 GitHub Stats
-![Davidzy4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Davidzy4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidzy4&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzy4&layout=compact&theme=tokyonight)
